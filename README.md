@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .OOO one-word domains still available to buy.
 
-This dataset contains 4,413 .OOO one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,409 .OOO one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.OOO one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ooo-oneword-domains&utm_content=description.top) (4,418) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.OOO one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.ooo        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.ooo        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.ooo      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.ooo  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.ooo      | available | 43       | 2%     | 5      |           |         |         |

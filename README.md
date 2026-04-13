@@ -66,14 +66,14 @@ print(df.head())
 | -------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
 | converse.ooo   | available | $34.99      | $34.99        | 64             | 73     | 8      | name.com                      |
 | fan.ooo        | resell    | —           | —             | 88             | 98     | 3      | Squarespace Domains II LLC    |
-| free.ooo       | premium   | $1,250,000  | $311.25       | 88             | 59     | 4      | name.com                      |
+| free.ooo       | premium   | $1,250,000  | $311.25       | 88             | 57     | 4      | name.com                      |
 | nationwide.ooo | available | $34.99      | $34.99        | 76             | 66     | 10     | name.com                      |
 | swift.ooo      | resell    | —           | —             | 68             | 85     | 5      | Porkbun, LLC                  |
-| design.ooo     | premium   | $15,437.50  | $124.99       | 108            | 50     | 6      | name.com                      |
+| design.ooo     | premium   | $15,437.50  | $124.99       | 108            | 49     | 6      | name.com                      |
 | seventeen.ooo  | available | $34.99      | $34.99        | 84             | 62     | 9      | name.com                      |
 | orange.ooo     | resell    | —           | —             | 74             | 83     | 6      | Sav.com, LLC                  |
-| digital.ooo    | premium   | $140,156.25 | $311.25       | 100            | 50     | 7      | name.com                      |
-| simple.ooo     | available | $34.99      | $34.99        | 128            | 48     | 6      | name.com                      |
+| digital.ooo    | premium   | $140,156.25 | $311.25       | 100            | 49     | 7      | name.com                      |
+| simple.ooo     | available | $34.99      | $34.99        | 128            | 49     | 6      | name.com                      |
 | now.ooo        | resell    | —           | —             | 78             | 66     | 3      | West263 International Limited |
 | creative.ooo   | premium   | $8,125      | $124.99       | 92             | 45     | 8      | name.com                      |
 | scale.ooo      | available | $34.99      | —             | 78             | 43     | 5      | name.com                      |
@@ -81,7 +81,7 @@ print(df.head())
 | deep.ooo       | premium   | $87.49      | $34.99        | 72             | 43     | 4      | name.com                      |
 | cube.ooo       | available | $34.99      | —             | 74             | 43     | 4      | name.com                      |
 | office.ooo     | resell    | —           | —             | 100            | 58     | 6      | Name.com, Inc                 |
-| content.ooo    | premium   | $10,968.75  | $124.99       | 138            | 40     | 7      | name.com                      |
+| unity.ooo      | premium   | $7,812.50   | $124.99       | 70             | 40     | 5      | name.com                      |
 | drive.ooo      | available | $34.99      | $34.99        | 100            | 38     | 5      | name.com                      |
 | ace.ooo        | resell    | —           | —             | 88             | 57     | 3      | Dynadot LLC                   |
 

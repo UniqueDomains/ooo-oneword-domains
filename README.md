@@ -1,22 +1,22 @@
-# Available .OOO One-Word Domains (8,907)
+# Available .OOO One-Word Domains (11,340)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C907%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C907%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C340%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .ooo one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .ooo one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,340 domains** on the canonical page below.
 
-**Public extract:** 8,907 rows · **Live catalog:** 8,907 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,340 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/ooo`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .OOO one-word domain c
 
 ### Files
 
-- `ooo.csv` — public CSV extract (8,907 rows)
-- `ooo.json` — public JSON extract (8,907 rows)
+- `ooo.csv` — public CSV extract (1,000 rows)
+- `ooo.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                     |
-| -------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| converse.ooo   | available | $34.99      | $34.99        | 64             | 73     | 8      | name.com                      |
-| fan.ooo        | resell    | —           | —             | 88             | 98     | 3      | Squarespace Domains II LLC    |
-| free.ooo       | premium   | $1,250,000  | $311.25       | 88             | 57     | 4      | name.com                      |
-| nationwide.ooo | available | $34.99      | $34.99        | 76             | 66     | 10     | name.com                      |
-| swift.ooo      | resell    | —           | —             | 68             | 85     | 5      | Porkbun, LLC                  |
-| design.ooo     | premium   | $15,437.50  | $124.99       | 108            | 49     | 6      | name.com                      |
-| seventeen.ooo  | available | $34.99      | $34.99        | 84             | 62     | 9      | name.com                      |
-| orange.ooo     | resell    | —           | —             | 74             | 83     | 6      | Sav.com, LLC                  |
-| digital.ooo    | premium   | $140,156.25 | $311.25       | 100            | 49     | 7      | name.com                      |
-| simple.ooo     | available | $34.99      | $34.99        | 128            | 49     | 6      | name.com                      |
-| now.ooo        | resell    | —           | —             | 78             | 66     | 3      | West263 International Limited |
-| creative.ooo   | premium   | $8,125      | $124.99       | 92             | 45     | 8      | name.com                      |
-| scale.ooo      | available | $34.99      | —             | 78             | 43     | 5      | name.com                      |
-| open.ooo       | resell    | —           | —             | 106            | 60     | 4      | Name.com, Inc                 |
-| deep.ooo       | premium   | $87.49      | $34.99        | 72             | 43     | 4      | name.com                      |
-| cube.ooo       | available | $34.99      | —             | 74             | 43     | 4      | name.com                      |
-| office.ooo     | resell    | —           | —             | 100            | 58     | 6      | Name.com, Inc                 |
-| unity.ooo      | premium   | $7,812.50   | $124.99       | 70             | 40     | 5      | name.com                      |
-| drive.ooo      | available | $34.99      | $34.99        | 100            | 38     | 5      | name.com                      |
-| ace.ooo        | resell    | —           | —             | 88             | 57     | 3      | Dynadot LLC                   |
+| domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                                               |
+| ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------------------------------------------------- |
+| makers.ooo        | available | $24.99      | $24.99        | 62             | 67     | 6      | namesilo                                                                |
+| letsgo.ooo        | resell    | —           | —             | 57             | 31     | 7      | 101domain GRS Limited                                                   |
+| robots.ooo        | premium   | $20,000     | —             | 62             | 47     | 6      | name.com                                                                |
+| keepthechange.ooo | available | $34.99      | —             | 46             | 59     | 15     | name.com                                                                |
+| maps.ooo          | resell    | —           | —             | 56             | 31     | 4      | Dynadot LLC                                                             |
+| shortcuts.ooo     | premium   | $62.49      | —             | 48             | 41     | 10     | name.com                                                                |
+| stories.ooo       | available | $34.99      | —             | 58             | 36     | 7      | name.com                                                                |
+| planets.ooo       | resell    | —           | —             | 60             | 13     | 7      | Squarespace Domains II LLC                                              |
+| matcha.ooo        | premium   | $62.49      | —             | 86             | 39     | 6      | name.com                                                                |
+| popup.ooo         | available | $34.99      | —             | 84             | 29     | 6      | name.com                                                                |
+| sparklingwine.ooo | resell    | —           | —             | 69             | 4      | 14     | Ascio Technologies Inc. Danmark - filial af Ascio Technologies Inc. USA |
+| lets.ooo          | premium   | $15,750     | —             | 77             | 39     | 4      | name.com                                                                |
+| commonground.ooo  | available | $34.99      | —             | 74             | 28     | 13     | name.com                                                                |
+| trends.ooo        | premium   | $62.49      | —             | 60             | 32     | 6      | name.com                                                                |
+| drops.ooo         | available | $34.99      | —             | 52             | 25     | 5      | name.com                                                                |
+| rewards.ooo       | premium   | $124,998.75 | —             | 62             | 30     | 7      | name.com                                                                |
+| motorsport.ooo    | available | $34.99      | —             | 74             | 23     | 10     | name.com                                                                |
+| SanDiego.ooo      | premium   | $2,498.75   | —             | 74             | 29     | 9      | name.com                                                                |
+| machines.ooo      | available | $34.99      | —             | 56             | 22     | 8      | name.com                                                                |
+| quotes.ooo        | premium   | $124.99     | —             | 58             | 29     | 6      | name.com                                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,907-row public sample | 8,907 live domains                               |
+| 1,000-row public sample | 11,340 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OOO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OOO One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -593,7 +593,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 355c6a1c-85df-4e58-9467-b6f7ed0de44e,coffeepots.ooo,available,24.99,24.99,62,2,10,namesilo,,
 3580d792-0960-4bb4-ad38-6e63794b74d5,letthefurfly.ooo,available,34.99,,47,1,15,name.com,,
 358883bb-792c-43a5-ad04-70fc03100e46,wisdoms.ooo,available,24.99,24.99,58,8,7,namesilo,,
-35975a70-85c2-4ac0-8b92-4f9e5024d76e,Greg.ooo,premium,,,66,35,4,,,
+35975a70-85c2-4ac0-8b92-4f9e5024d76e,Greg.ooo,premium,,,66,34,4,,,
 359de2fd-82d7-42b7-9526-9853005c86af,Ilostmywallet.ooo,premium,,,50,1,16,,,
 35d8f24a-853a-4823-a27d-677e59b2e48e,goingout.ooo,available,24.99,24.99,54,5,9,namesilo,,
 35dfd36f-0c9f-4f9a-861a-85aacb00bf27,highwater.ooo,available,34.99,,66,7,10,name.com,,

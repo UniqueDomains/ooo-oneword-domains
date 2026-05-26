@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ooo one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,816 domains · **Median ask:** $4,718.41 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/ooo`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
 | geton.ooo         | available | $34.99    | —             | 82             | 10     | 6      | name.com              |
-| popup.ooo         | available | $34.99    | —             | 84             | 29     | 6      | name.com              |
+| popup.ooo         | available | $34.99    | —             | 84             | 28     | 6      | name.com              |
 | Apples.ooo        | premium   | —         | —             | 90             | 16     | 6      | —                     |
 | edamame.ooo       | available | $24.99    | $24.99        | 80             | 9      | 7      | namesilo              |
 | playon.ooo        | available | $34.99    | —             | 80             | 14     | 7      | name.com              |
@@ -76,7 +76,7 @@ print(df.head())
 | stirup.ooo        | available | $34.99    | —             | 82             | 3      | 7      | name.com              |
 | watches.ooo       | available | $34.99    | —             | 84             | 19     | 7      | name.com              |
 | Snickers.ooo      | premium   | —         | —             | 80             | 10     | 8      | —                     |
-| rumcake.ooo       | available | $34.99    | —             | 81             | 3      | 8      | name.com              |
+| rumcake.ooo       | available | $34.99    | —             | 81             | 2      | 8      | name.com              |
 | FabFour.ooo       | available | $24.99    | $24.99        | 82             | 3      | 8      | namesilo              |
 | lightup.ooo       | available | $34.99    | —             | 82             | 15     | 8      | name.com              |
 | makers.ooo        | available | $24.99    | $24.99        | 62             | 67     | 6      | namesilo              |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OOO One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OOO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

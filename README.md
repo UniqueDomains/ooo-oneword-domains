@@ -1,10 +1,10 @@
-# Available .OOO One-Word Domains (11,816)
+# Available .OOO One-Word Domains (11,821)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C816%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C821%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .ooo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,816 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,821 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,816 domains · **Median ask:** $4,718.41 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,821 domains · **Median ask:** $7,297.64 · **High-demand under $2,500:** 26
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/ooo`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/ooo`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .OOO one-word domain c
 
 ### Files
 
-- `ooo.csv` — public CSV extract (1,000 rows)
-- `ooo.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `ooo.csv`, public CSV extract (1,000 rows)
+- `ooo.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
-| geton.ooo         | available | $34.99    | —             | 82             | 10     | 6      | name.com              |
-| popup.ooo         | available | $34.99    | —             | 84             | 28     | 6      | name.com              |
-| Apples.ooo        | premium   | —         | —             | 90             | 16     | 6      | —                     |
-| edamame.ooo       | available | $24.99    | $24.99        | 80             | 9      | 7      | namesilo              |
-| playon.ooo        | available | $34.99    | —             | 80             | 14     | 7      | name.com              |
-| QandA.ooo         | premium   | —         | —             | 80             | 10     | 7      | —                     |
-| toneup.ooo        | available | $34.99    | —             | 80             | 5      | 7      | name.com              |
-| hangon.ooo        | available | $34.99    | —             | 82             | 6      | 7      | name.com              |
-| pierogi.ooo       | available | $34.99    | —             | 82             | 7      | 7      | name.com              |
-| stirup.ooo        | available | $34.99    | —             | 82             | 3      | 7      | name.com              |
-| watches.ooo       | available | $34.99    | —             | 84             | 19     | 7      | name.com              |
-| Snickers.ooo      | premium   | —         | —             | 80             | 10     | 8      | —                     |
-| rumcake.ooo       | available | $34.99    | —             | 81             | 2      | 8      | name.com              |
-| FabFour.ooo       | available | $24.99    | $24.99        | 82             | 3      | 8      | namesilo              |
-| lightup.ooo       | available | $34.99    | —             | 82             | 15     | 8      | name.com              |
-| makers.ooo        | available | $24.99    | $24.99        | 62             | 67     | 6      | namesilo              |
-| letsgo.ooo        | resell    | —         | —             | 57             | 31     | 7      | 101domain GRS Limited |
-| robots.ooo        | premium   | $20,000   | —             | 62             | 47     | 6      | name.com              |
-| keepthechange.ooo | available | $34.99    | —             | 46             | 59     | 15     | name.com              |
-| maps.ooo          | resell    | —         | —             | 56             | 31     | 4      | Dynadot LLC           |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| ana.ooo    | available | $24.99    | $24.99        | high           | low    | 3      | namesilo      |
+| DIY.ooo    | resell    | —         | —             | high           | low    | 3      | Dynadot LLC   |
+| act.ooo    | premium   | $250,000  | —             | high           | low    | 3      | name.com      |
+| bow.ooo    | available | $24.99    | $24.99        | high           | low    | 3      | namesilo      |
+| data.ooo   | resell    | —         | —             | medium         | medium | 4      | Porkbun LLC   |
+| bad.ooo    | premium   | $26,325   | —             | high           | medium | 3      | name.com      |
+| clv.ooo    | available | $24.99    | $24.99        | medium         | low    | 3      | namesilo      |
+| only.ooo   | resell    | —         | —             | high           | medium | 4      | NameSilo, LLC |
+| dip.ooo    | premium   | $87.49    | $34.99        | high           | low    | 3      | name.com      |
+| coy.ooo    | available | $34.99    | $34.99        | medium         | low    | 3      | name.com      |
+| post.ooo   | resell    | —         | —             | high           | medium | 4      | Porkbun, LLC  |
+| dog.ooo    | premium   | $13,290   | —             | high           | low    | 3      | name.com      |
+| ilx.ooo    | available | $24.99    | $24.99        | low            | low    | 3      | namesilo      |
+| order.ooo  | resell    | —         | —             | high           | medium | 5      | NameSilo, LLC |
+| don.ooo    | premium   | $83.29    | $23.59        | high           | low    | 3      | namesilo      |
+| nor.ooo    | available | $34.99    | —             | high           | low    | 3      | name.com      |
+| office.ooo | resell    | —         | —             | high           | medium | 6      | Name.com, Inc |
+| flu.ooo    | premium   | $22,500   | —             | medium         | low    | 3      | name.com      |
+| tow.ooo    | available | $24.99    | $24.99        | medium         | low    | 3      | namesilo      |
+| talent.ooo | resell    | —         | —             | high           | medium | 6      | Porkbun, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,816 live domains                        |
+| 1,000-row public sample | 11,821 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 26 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .ooo extension. The set includes short verb-led options such as geton.ooo, getup.ooo, and useit.ooo, plus broader dictionary-style terms like emoji.ooo, popup.ooo, and forces.ooo. For founders, the main question is whether the word is memorable enough to offset a less familiar extension. For investors, the key issue is pricing discipline against uncertain resale depth. With a median ask of 4,718, stronger picks tend to be simple to say, easy to recall, and commercially flexible. Weaker picks often depend too heavily on the novelty of .ooo rather than on the word itself.
+This list gathers one-word .ooo domain names currently available across a single, distinctive extension. The .ooo TLD leans modern and playful, making it a fit for consumer brands, events, and short punchy names. Pricing varies widely: the majority sit under $500, while a smaller tier climbs into premium territory above $10,000. Whether you're comparing entry costs or scanning for a memorable name to launch under, this set gives a full view of what's currently ownable in .ooo.
 
-- Prioritize words that stay clear without relying on the extension
-- Short verbs and common nouns usually read better in .ooo
-- Use the 4,718 median ask as a reality check on pricing
-- Treat niche or awkward plurals as higher-risk brandability bets
+- 9,642 domains priced under $500
+- 2,034 listed as premium status
+- 7,582 names flagged as easy to spell
+- 436 considered launch-ready by naming fit
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OOO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OOO One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

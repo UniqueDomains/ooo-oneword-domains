@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ooo one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,314 domains · **Median ask:** $4,620.28 · **High-demand under $2,500:** 32
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/ooo`
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,6 @@ print(df.head())
 | clean.ooo   | premium   | $7,500    | —             | high           | low    | 5      | name.com      |
 | perfect.ooo | resell    | —         | —             | high           | low    | 7      | Porkbun, LLC  |
 | brief.ooo   | premium   | $87.49    | $34.99        | high           | low    | 5      | name.com      |
-| model.ooo   | premium   | $18,750   | —             | high           | low    | 5      | name.com      |
 | ana.ooo     | available | $24.99    | $24.99        | high           | low    | 3      | namesilo      |
 | DIY.ooo     | resell    | —         | —             | high           | low    | 3      | Dynadot LLC   |
 | act.ooo     | premium   | $250,000  | —             | high           | low    | 3      | name.com      |
@@ -84,6 +83,7 @@ print(df.head())
 | ilx.ooo     | available | $24.99    | $24.99        | low            | low    | 3      | namesilo      |
 | order.ooo   | resell    | —         | —             | high           | medium | 5      | NameSilo, LLC |
 | don.ooo     | premium   | $83.29    | $23.59        | high           | low    | 3      | namesilo      |
+| nor.ooo     | available | $34.99    | —             | high           | low    | 3      | name.com      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OOO One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OOO One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

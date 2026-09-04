@@ -196,7 +196,7 @@ d39e831b-dc6f-42d4-acd7-5b88853b03a4,lisbon.ooo,premium,58.99,23.59,high,low,6,n
 05d4677e-b1ae-437a-9660-28f86547be72,wanting.ooo,available,24.99,24.99,high,low,7,namesilo,,
 9688bcea-b7fc-4295-b08e-12a1a4164c32,lag.ooo,premium,83.29,23.59,medium,low,3,namesilo,,
 7c7ab837-81ba-4043-9f0c-2ae959f3153f,finding.ooo,premium,58.99,23.59,high,low,7,namesilo,,
-c6d9255f-ede8-433a-8a3c-1947567e31fd,model.ooo,premium,18750,,high,low,5,name.com,,
+c6d9255f-ede8-433a-8a3c-1947567e31fd,model.ooo,premium,20700,119.99,medium,medium,5,namesilo,,
 c0f46e0b-11d3-4f43-b5f9-30baeb5264e5,azure.ooo,available,24.99,24.99,medium,high,5,namesilo,,
 f05e5808-4a03-439e-98e4-1808226b0fec,check.ooo,premium,20625,124.99,medium,low,5,name.com,,
 f0c9df5a-dd86-4676-a55f-52b192222646,accounted.ooo,available,24.99,24.99,medium,low,9,namesilo,,
@@ -237,7 +237,7 @@ b246bb20-f5ef-476c-851b-6e2bc5cfac54,bigidea.ooo,available,34.99,,medium,low,8,n
 abfb6d5e-e3df-43e7-ac02-f27b9a0bf079,asyoulike.ooo,available,24.99,24.99,high,low,11,namesilo,,
 a722797a-8971-4b6d-b291-3641a16b754f,flu.ooo,premium,22500,,medium,low,3,name.com,,
 94289904-bf1d-4db8-8bfc-c5648f328747,nun.ooo,premium,11563.75,,medium,low,3,name.com,,
-2ad882ed-362d-428d-a467-ef01c26eb700,office.ooo,resell,,,high,medium,6,"Name.com, Inc",24/10/2014 16:51,24/10/2026 23:59
+2ad882ed-362d-428d-a467-ef01c26eb700,office.ooo,resell,,,medium,medium,6,"Name.com, Inc.",24/10/2014 16:51,24/10/2026 23:59
 9e678204-492b-4e67-8936-5cb8a771710d,facet.ooo,available,24.99,24.99,high,low,5,namesilo,,
 20bf607e-0c9d-4e96-8fd7-ea16b104d2f8,society.ooo,premium,1250000,,high,low,7,name.com,,
 5420d363-a4e2-4ac1-b473-0d8f191b80d8,negotiable.ooo,premium,7500,124.99,low,low,10,name.com,,

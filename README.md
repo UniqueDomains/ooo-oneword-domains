@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ooo one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,753 domains · **Median ask:** $4,357.84 · **High-demand under $2,500:** 34
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/ooo`
 **Best for:** founders, investors, studios
 
@@ -64,13 +64,12 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
-| bad.ooo    | premium   | $26,325   | —             | high           | medium | 3      | name.com       |
-| great.ooo  | premium   | $6,250    | —             | high           | low    | 5      | name.com       |
 | ana.ooo    | available | $24.99    | $24.99        | high           | low    | 3      | namesilo       |
 | DIY.ooo    | resell    | —         | —             | high           | low    | 3      | Dynadot LLC    |
 | act.ooo    | premium   | $250,000  | —             | high           | low    | 3      | name.com       |
 | bow.ooo    | available | $24.99    | $24.99        | high           | low    | 3      | namesilo       |
 | data.ooo   | resell    | —         | —             | medium         | medium | 4      | Porkbun LLC    |
+| bad.ooo    | premium   | $26,325   | —             | high           | medium | 3      | name.com       |
 | clv.ooo    | available | $24.99    | $24.99        | medium         | low    | 3      | namesilo       |
 | only.ooo   | resell    | —         | —             | high           | medium | 4      | NameSilo, LLC  |
 | dip.ooo    | premium   | $87.49    | $34.99        | high           | low    | 3      | name.com       |
@@ -84,6 +83,7 @@ print(df.head())
 | office.ooo | resell    | —         | —             | medium         | medium | 6      | Name.com, Inc. |
 | flu.ooo    | premium   | $22,500   | —             | medium         | low    | 3      | name.com       |
 | tow.ooo    | available | $24.99    | $24.99        | medium         | low    | 3      | namesilo       |
+| talent.ooo | resell    | —         | —             | high           | medium | 6      | Porkbun, LLC   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OOO One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OOO One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

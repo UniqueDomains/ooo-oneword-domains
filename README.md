@@ -1,10 +1,10 @@
-# Available .OOO One-Word Domains (22,209)
+# Available .OOO One-Word Domains (22,594)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C209%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C594%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .ooo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,209 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,594 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,209 domains · **Median ask:** $5,391.34 · **High-demand under $2,500:** 51
+**Public extract:** 1,000 rows · **Live catalog:** 22,594 domains · **Median ask:** $5,391.98 · **High-demand under $2,500:** 54
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/ooo`
@@ -71,19 +71,19 @@ print(df.head())
 | virtually.ooo | resell    | —          | —             | high           | low    | 9      | Name.com, Inc. |
 | kit.ooo       | premium   | $28,387.50 | —             | high           | low    | 3      | name.com       |
 | bph.ooo       | available | $24.99     | $24.99        | high           | low    | 3      | namesilo       |
-| nth.ooo       | premium   | $58.99     | $23.59        | medium         | low    | 3      | namesilo       |
+| ngo.ooo       | premium   | $1,278.72  | $23.59        | high           | low    | 3      | namesilo       |
 | cxl.ooo       | available | $24.99     | $24.99        | high           | low    | 3      | namesilo       |
-| pod.ooo       | premium   | $119.99    | $23.59        | high           | medium | 3      | namesilo       |
+| nth.ooo       | premium   | $58.99     | $23.59        | medium         | low    | 3      | namesilo       |
 | gip.ooo       | available | $24.99     | $24.99        | medium         | low    | 3      | namesilo       |
-| sob.ooo       | premium   | $22,500    | $124.99       | high           | low    | 3      | name.com       |
+| pod.ooo       | premium   | $119.99    | $23.59        | high           | medium | 3      | namesilo       |
 | jem.ooo       | available | $24.99     | $24.99        | high           | low    | 3      | namesilo       |
-| boom.ooo      | premium   | $87.49     | —             | high           | medium | 4      | name.com       |
+| sob.ooo       | premium   | $22,500    | $124.99       | high           | low    | 3      | name.com       |
 | mba.ooo       | available | $24.99     | $24.99        | high           | low    | 3      | namesilo       |
-| cody.ooo      | premium   | $83.29     | $23.59        | high           | low    | 4      | namesilo       |
+| boom.ooo      | premium   | $87.49     | —             | high           | medium | 4      | name.com       |
 | ole.ooo       | available | $24.99     | $24.99        | high           | low    | 3      | namesilo       |
-| epos.ooo      | premium   | $83.29     | $23.59        | high           | low    | 4      | namesilo       |
+| cody.ooo      | premium   | $83.29     | $23.59        | high           | low    | 4      | namesilo       |
 | tow.ooo       | available | $24.99     | $24.99        | high           | low    | 3      | namesilo       |
-| fail.ooo      | premium   | $83.29     | $23.59        | medium         | low    | 4      | namesilo       |
+| epos.ooo      | premium   | $83.29     | $23.59        | high           | low    | 4      | namesilo       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,209 live domains                        |
+| 1,000-row public sample | 22,594 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 51 high-demand names under $2,500          |
+| Basic exported fields   | 54 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

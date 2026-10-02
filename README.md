@@ -1,10 +1,10 @@
-# Available .OOO One-Word Domains (29,990)
+# Available .OOO One-Word Domains (31,507)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C990%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C507%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ooo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,990 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,507 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,990 domains · **Median ask:** $4,949.19 · **High-demand under $2,500:** 83
+**Public extract:** 1,000 rows · **Live catalog:** 31,507 domains · **Median ask:** $4,883.75 · **High-demand under $2,500:** 89
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/ooo`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| eternal.ooo   | premium   | $83.29    | $23.59        | high           | medium | 7      | namesilo  |
-| recipe.ooo    | premium   | $83.29    | $23.59        | high           | low    | 6      | namesilo  |
-| resume.ooo    | premium   | $124,200  | $119.99       | high           | low    | 6      | namesilo  |
-| verse.ooo     | premium   | $58.99    | $23.59        | high           | low    | 5      | namesilo  |
-| enough.ooo    | available | $24.99    | $24.99        | high           | low    | 6      | namesilo  |
-| consult.ooo   | premium   | $83.29    | $23.59        | high           | low    | 7      | namesilo  |
-| gourmet.ooo   | available | $24.99    | $24.99        | high           | low    | 7      | namesilo  |
-| heroic.ooo    | available | $24.99    | $24.99        | high           | low    | 6      | namesilo  |
-| richmond.ooo  | available | $24.99    | $24.99        | high           | low    | 8      | namesilo  |
-| activated.ooo | available | $24.99    | $24.99        | high           | low    | 9      | namesilo  |
-| relation.ooo  | premium   | $14,352   | $119.99       | high           | low    | 8      | namesilo  |
-| they.ooo      | premium   | $58.99    | $23.59        | high           | low    | 4      | namesilo  |
-| team.ooo      | premium   | $124,200  | $119.99       | high           | medium | 4      | namesilo  |
-| pleasure.ooo  | available | $24.99    | $24.99        | high           | low    | 8      | namesilo  |
-| assistant.ooo | available | $24.99    | $24.99        | high           | low    | 9      | namesilo  |
-| guidance.ooo  | premium   | $55.10    | $22.35        | high           | low    | 8      | porkbun   |
-| trophy.ooo    | premium   | $58.99    | $23.59        | high           | low    | 6      | namesilo  |
-| boom.ooo      | premium   | $76.93    | $22.35        | high           | medium | 4      | porkbun   |
-| content.ooo   | premium   | $9,652.50 | $109.98       | high           | medium | 7      | dynadot   |
-| intuitive.ooo | premium   | $14,904   | $119.99       | high           | low    | 9      | namesilo  |
+| domain  | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar   |
+| ------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------- |
+| baa.ooo | available | $24.99     | $24.99        | high           | low    | 3      | namesilo    |
+| cos.ooo | resell    | —          | —             | high           | medium | 3      | Dynadot Inc |
+| cem.ooo | premium   | $12,420    | $119.99       | high           | low    | 3      | namesilo    |
+| bel.ooo | available | $24.99     | $24.99        | high           | low    | 3      | namesilo    |
+| tab.ooo | resell    | —          | —             | high           | low    | 3      | —           |
+| cra.ooo | premium   | $83.29     | $23.59        | high           | low    | 3      | namesilo    |
+| bph.ooo | available | $24.99     | $24.99        | high           | low    | 3      | namesilo    |
+| den.ooo | premium   | $87.49     | $34.99        | high           | low    | 3      | name.com    |
+| cms.ooo | available | $24.99     | $24.99        | high           | medium | 3      | namesilo    |
+| huh.ooo | premium   | $14,076    | $119.99       | high           | low    | 3      | namesilo    |
+| cxl.ooo | available | $24.99     | $24.99        | high           | low    | 3      | namesilo    |
+| itc.ooo | premium   | $13,798.62 | $119.99       | high           | low    | 3      | namesilo    |
+| gip.ooo | available | $24.99     | $24.99        | medium         | low    | 3      | namesilo    |
+| kit.ooo | premium   | $31,339.80 | $119.99       | high           | medium | 3      | namesilo    |
+| icf.ooo | available | $21.10     | $21.10        | high           | low    | 3      | porkbun     |
+| med.ooo | premium   | $5,500.63  | $82.81        | high           | medium | 3      | porkbun     |
+| jem.ooo | available | $24.99     | $24.99        | high           | low    | 3      | namesilo    |
+| ngo.ooo | premium   | $1,278.72  | $23.59        | high           | low    | 3      | namesilo    |
+| mba.ooo | available | $24.99     | $24.99        | high           | low    | 3      | namesilo    |
+| nod.ooo | premium   | $5,500     | $109.98       | high           | low    | 3      | dynadot     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,990 live domains                        |
+| 1,000-row public sample | 31,507 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 83 high-demand names under $2,500          |
+| Basic exported fields   | 89 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .OOO One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .OOO One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
